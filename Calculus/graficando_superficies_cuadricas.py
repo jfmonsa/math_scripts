@@ -196,7 +196,7 @@ while(True):
         x_values=np.linspace(-10,10,n)
         z_values=np.linspace(-10,10,n)
         #Creamos una un grilla de puntos
-        X, Z=np.meshgrid(x_values, z_values)
+        X,Z=np.meshgrid(x_values, z_values)
         # --------------------------------------------------------------------
 
 
